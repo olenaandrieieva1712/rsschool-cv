@@ -1,0 +1,50 @@
+.absolute-position {
+    position: absolute;
+   top:80px;
+    left: 350px;
+  }
+
+ .turquoise-background {
+    background-color: #40E0D0;
+  }
+
+#sandybrown {
+  color: #F4A460;
+font: italic bold 40px Arial, sans-serif;
+text-align: center;
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
+
+
+ #square-pink-background {
+    width: 320px;
+    height: 25px;
+    background-color: #FFC0CB;
+  }
+
+ #square-pink-background-big {
+    width: 1120px;
+    height: 25px;
+    background-color: #FFC0CB;
+  }
+
+ #square-image {
+    width: 300px;
+    height: 300px;
+    background-color: 40E0D0;
+  }
+
+#ollfont {
+
+font-style:Arial;
+line-height : 21px;
+text-align: left;
+
+font-size 28px;
+}
